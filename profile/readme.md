@@ -2,6 +2,12 @@
 
 A collection of apps and configurations I'm creating to enhance my NixOS environment.
 
+## Coqui / 2026-08-23
+
+A fast, keyboard-driven TUI application launcher.
+
+![Coqui](https://raw.githubusercontent.com/rama-oi/coqui/main/assets/screenshots/0.png)
+
 ## Caiman / 2026-08-18
 
 A TUI keyboard layout inspector with live key event information and theme support.
