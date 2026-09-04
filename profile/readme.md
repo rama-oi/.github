@@ -2,6 +2,12 @@
 
 A collection of apps and configurations I'm creating to enhance my NixOS environment.
 
+## Polygon / 2026-09-04
+
+A small Ruby terminal animation that renders a rotating polygon bouncing around the screen.
+
+[![Polygon](https://raw.githubusercontent.com/rama-oi/polygon/master/assets/screenshots/0.png)](https://github.com/rama-oi/polygon)
+
 ## Matrix / 2026-09-04
 
 Matrix is a Free Pascal recreation of a program I wrote in Turbo Pascal 7 back in high school.
