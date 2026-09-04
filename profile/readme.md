@@ -2,6 +2,12 @@
 
 A collection of apps and configurations I'm creating to enhance my NixOS environment.
 
+## Matrix / 2026-09-04
+
+Matrix is a Free Pascal recreation of a program I wrote in Turbo Pascal 7 back in high school.
+
+![MAtrix](https://raw.githubusercontent.com/rama-oi/matrix/refs/heads/master/assets/screenshots/0.png)
+
 ## Coqui / 2026-08-23
 
 A fast, keyboard-driven TUI application launcher.
