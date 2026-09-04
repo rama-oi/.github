@@ -6,7 +6,7 @@ A collection of apps and configurations I'm creating to enhance my NixOS environ
 
 Matrix is a Free Pascal recreation of a program I wrote in Turbo Pascal 7 back in high school.
 
-![MAtrix](https://raw.githubusercontent.com/rama-oi/matrix/refs/heads/master/assets/screenshots/0.png)
+[![Matrix](https://raw.githubusercontent.com/rama-oi/matrix/refs/heads/master/assets/screenshots/0.png)](https://github.com/rama-oi/matrix)
 
 ## Coqui / 2026-08-23
 
