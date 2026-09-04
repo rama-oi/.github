@@ -2,6 +2,12 @@
 
 A collection of apps and configurations I'm creating to enhance my NixOS environment.
 
+## Lupa / 2026-09-04
+
+Lupa is a CLI tool that turns directories into structured context with filters, predictable file markers, and binary-file detection.
+
+[![Lupa](https://raw.githubusercontent.com/rama-oi/lupa/master/assets/screenshots/0.png)](https://github.com/rama-oi/lupa)
+
 ## Polygon / 2026-09-04
 
 A small Ruby terminal animation that renders a rotating polygon bouncing around the screen.
